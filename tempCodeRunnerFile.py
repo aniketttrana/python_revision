@@ -1,1 +1,1 @@
-print(max(a))
+1
